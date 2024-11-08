@@ -34,7 +34,7 @@ This project implements the classic Snake game in C++ with enhanced smooth rende
 ## Usage
 1. **Run the game:**
    ```sh
-   .\snake_game
+   .\snake_game.exe
    ```
 2. **Follow on-screen instructions to enter your name and select the difficulty level.**
 
